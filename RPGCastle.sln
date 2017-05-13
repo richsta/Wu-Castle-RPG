@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCastle.CSharp", "RPGCastle.CSharp.csproj", "{9C6A4E92-C4F3-D2F9-45E9-E7C497BFF6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCastle.CSharp.Editor", "RPGCastle.CSharp.Editor.csproj", "{1729BC1A-F768-B231-5B8E-11C504B950A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6A4E92-C4F3-D2F9-45E9-E7C497BFF6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6A4E92-C4F3-D2F9-45E9-E7C497BFF6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6A4E92-C4F3-D2F9-45E9-E7C497BFF6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6A4E92-C4F3-D2F9-45E9-E7C497BFF6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1729BC1A-F768-B231-5B8E-11C504B950A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1729BC1A-F768-B231-5B8E-11C504B950A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1729BC1A-F768-B231-5B8E-11C504B950A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1729BC1A-F768-B231-5B8E-11C504B950A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
